@@ -6,9 +6,8 @@
 
   <groupId>in.ashokit</groupId>
   <artifactId>my-web-app</artifactId>
-  <version>1.0-realase</version>
+  <version>1.0-Realase</version>
   <packaging>war</packaging>
-
   <name>my-web-app Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
@@ -51,7 +50,7 @@
         </plugin>
         <plugin>
           <artifactId>maven-war-plugin</artifactId>
-          <version>3.2.2</version>
+          <version>3.2.0</version>
         </plugin>
         <plugin>
           <artifactId>maven-install-plugin</artifactId>
